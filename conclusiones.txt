@@ -1,0 +1,5 @@
+Hallazgos y conclusiones
+
+1. La API permite crear diferentes usuarios con los mismos username y id, es decir, que no hace validación de la data anterioremnte generada.
+2. La documentación es muy completa y permite realizar pruebas más completas, ya que conozco los diferentes mensajes de respuesta.
+3. A los casos de prueba, se deberían agregar casos alternos, que esten orientados al fallo.
